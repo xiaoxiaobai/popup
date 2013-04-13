@@ -1,0 +1,1 @@
+define("arale/popup/0.0.1/popup",["gallery/jquery/1.8.2/jquery"],function(a,b,c){var d;a("gallery/jquery/1.8.2/jquery"),d=function(){alert(1)},c.exports=d});

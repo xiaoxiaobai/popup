@@ -1,19 +1,21 @@
 {
     "name": "popup",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "root": "arale",
     "description": "",
-    "homepage": "",
-    "author": "",
+    "homepage": "https://github.com/xiaoxiaobai/popup",
+    "author": "xiaoxiaobai1986@gmail.com",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git@github.com:xiaoxiaobai/popup.git"
     },
     "bugs": {
-        "url": ""
+        "url": "https://github.com/xiaoxiaobai/popup/issues"
     },
     "license": "MIT",
     "dependencies": {
+        "$":"gallery/jquery/1.8.2/jquery",
+        "popup":"arale/popup/0.9.11/popup"
     },
     "tests": ["popup"],
     "output": {
